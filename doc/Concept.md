@@ -59,6 +59,8 @@ This document provides a comparative analysis of three tools for deploying Kuber
 
 #### Example of Deploying a "Hello World" Application on Kubernetes
 
+![Demo GIF](https://raw.githubusercontent.com/brokerUA/devops101-w4-m4-t4/main/doc/demo.gif)
+
 1. Install k3d:
     ```sh
     curl -s https://raw.githubusercontent.com/rancher/k3d/main/install.sh | bash
