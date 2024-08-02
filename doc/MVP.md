@@ -25,7 +25,7 @@ spec:
 
 ### Enable automated sync policy in Details tab your created App
 
-![Demo GIF](https://raw.githubusercontent.com/brokerUA/devops101-w4-m4-t4/main/doc/resoures/mvp_01__argocd.gif)
+![Demo GIF](https://raw.githubusercontent.com/brokerUA/devops101-w4-m4-t4/main/doc/resources/mvp_01__argocd.gif)
 
 ## Test your App
 
